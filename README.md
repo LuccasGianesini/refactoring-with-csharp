@@ -1,5 +1,7 @@
 # Refactoring with C#
 
+E-Book: https://drive.google.com/file/d/1EFvcEiCJMuzgTTGeRYWL6UTXgcIGyEXM/view?usp=drive_link
+
 <a href="https://www.packtpub.com/product/refactoring-with-c/9781835089989?utm_source=github&utm_medium=repository&utm_campaign=9781835089989"><img src="https://content.packt.com/B21324/cover_image_small.jpg" alt="Refactoring with C#" height="256px" align="right"></a>
 
 This is the code repository for [Refactoring with C#](https://www.packtpub.com/product/refactoring-with-c/9781835089989?utm_source=github&utm_medium=repository&utm_campaign=9781835089989), published by Packt.
